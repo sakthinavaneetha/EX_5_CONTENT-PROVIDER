@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Total Count of Contacts: "+count);}
 }
 ```
-
 ## Activitymain.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -118,7 +117,6 @@ public class MainActivity extends AppCompatActivity {
 
 </RelativeLayout>
 ```
-
 ## AndroidMainfest.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -147,23 +145,16 @@ public class MainActivity extends AppCompatActivity {
         </activity>
     </application>
 
-</manifest>![Screenshot 2024-09-17 194637](https://github.com/user-attachments/assets/3e17ead9-eb04-43f3-b6e5-10ddd1dae911)
+</manifest>
 ```
 
-
 ## OUTPUT
-<img src="https://github.com/user-attachments/assets/06d217d0-839a-4ce8-99f0-65a8575d7112" width="250" height="500">
 
 
 
+![MAD Exp_5(1_](https://github.com/user-attachments/assets/5297af8e-4314-4631-8fbd-d16376d524b9)
 
-
-
-
-<img src="https://github.com/user-attachments/assets/ad2e4ab6-6a0f-401b-bc3d-a0f7c02a363a" width="350" height="350">
-
-
-
+![MAD Exp_5(2)](https://github.com/user-attachments/assets/6bac9f90-3065-49f5-807a-8b6fff8d6ffd)
 
 
 ## RESULT
